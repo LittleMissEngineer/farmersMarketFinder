@@ -182,7 +182,7 @@
         {
           "FMID": 1010691,
           "FMID__1": "10th Steet Community Farmers Market",
-          "FMID__2": "",
+          "FMID__2": "http://agrimissouri.com/mo-grown/grodetail.php?type=mo-grown&ID=275",
           "FMID__3": "",
           "FMID__4": "",
           "FMID__5": "",
@@ -242,7 +242,7 @@
         {
           "FMID": 1002454,
           "FMID__1": "112st Madison Avenue",
-          "FMID__2": "",
+          "FMID__2": "Find us on Google!",
           "FMID__3": "",
           "FMID__4": "",
           "FMID__5": "",
@@ -422,7 +422,7 @@
         {
           "FMID": 1005586,
           "FMID__1": "12th & Brandywine Urban Farm Market",
-          "FMID__2": "",
+          "FMID__2": "https://www.facebook.com/pages/12th-Brandywine-Urban-Farm-Community-Garden/253769448091860",
           "FMID__3": "https://www.facebook.com/pages/12th-Brandywine-Urban-Farm-Community-Garden/253769448091860",
           "FMID__4": "",
           "FMID__5": "",
@@ -482,7 +482,7 @@
         {
           "FMID": 1008071,
           "FMID__1": "14&U Farmers' Market",
-          "FMID__2": "",
+          "FMID__2": "https://www.facebook.com/14UFarmersMarket",
           "FMID__3": "https://www.facebook.com/14UFarmersMarket",
           "FMID__4": "https://twitter.com/14UFarmersMkt",
           "FMID__5": "",
@@ -542,7 +542,7 @@
         {
           "FMID": 1012710,
           "FMID__1": "14th & Kennedy Street Farmers Market",
-          "FMID__2": "",
+          "FMID__2": "https://www.facebook.com/14KennnedyFarmersMarket/",
           "FMID__3": "https://www.facebook.com/14KennnedyFarmersMarket/",
           "FMID__4": "14KenFM",
           "FMID__5": "",
@@ -662,7 +662,7 @@
         {
           "FMID": 1018792,
           "FMID__1": "170 Farm Stand",
-          "FMID__2": "",
+          "FMID__2": "https://www.facebook.com/CommunityFoodAction/",
           "FMID__3": "https://www.facebook.com/CommunityFoodAction/",
           "FMID__4": "https://twitter.com/GoodEatsBX",
           "FMID__5": "https://www.youtube.com/channel/UCZnt7sSNKIBrn2rMy1RyE_w",
@@ -962,7 +962,7 @@
         {
           "FMID": 1009994,
           "FMID__1": "18th Street Farmer's Market",
-          "FMID__2": "",
+          "FMID__2": "https://www.facebook.com/ScottsbluffFarmersMarket",
           "FMID__3": "https://www.facebook.com/ScottsbluffFarmersMarket",
           "FMID__4": "",
           "FMID__5": "",
@@ -1022,7 +1022,7 @@
         {
           "FMID": 1018365,
           "FMID__1": "18th Street Farmers Market",
-          "FMID__2": "",
+          "FMID__2": "Find us on Google!",
           "FMID__3": "18th Street Farmers Market",
           "FMID__4": "",
           "FMID__5": "",
@@ -1082,7 +1082,7 @@
         {
           "FMID": 1012790,
           "FMID__1": "19/27 Community Farmers Market",
-          "FMID__2": "",
+          "FMID__2": "https://www.facebook.com/1927-Community-Farmers-Market-1505265436358960/",
           "FMID__3": "https://www.facebook.com/1927-Community-Farmers-Market-1505265436358960/",
           "FMID__4": "",
           "FMID__5": "",
