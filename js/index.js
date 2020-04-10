@@ -13,7 +13,7 @@ function initMap() {
     map = new google.maps.Map(document.getElementById('map'), {
         center: indianapolis,
         zoom:11,
-        mapTypeId: 'terrain',
+        mapTypeId: 'satellite',
     });
 
     infoWindow = new google.maps.InfoWindow();
@@ -100,7 +100,7 @@ function showStoresMarkers(markets){
         bounds.extend(latlng);
         createMarker(latlng, name, address, openStatusText, socialMedia, postal, index+1);
     }
-    //map.fitBounds(bounds);
+    map.fitBounds(bounds);
 }
 
 function createMarker(latlng, name, address, openStatusText, socialMedia,postal, index){
