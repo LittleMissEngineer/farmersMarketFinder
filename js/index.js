@@ -126,7 +126,7 @@ function createMarker(latlng, name, address, openStatusText, socialMedia,postal,
                     <i class="fas fa-phone-alt"></i>
                 </div>`
                 if(socialMedia == null){
-                    '<span>Find us on Google!</span>'
+                    `<span>Find us on Google!</span>`
                 }else{
                     `<span>${socialMedia}</span>`
                 }
