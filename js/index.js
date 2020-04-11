@@ -116,9 +116,9 @@ function createMarker(latlng, name, address, openStatusText, socialMedia,postal,
                 <div class="circle">
                     <i class="fas fa-location-arrow"></i>
                 </div>
-                <a href = "https://www.google.com/maps/dir/?api=1&destination=latlng" target = "blank">
-                <span>${address}</span><br>
-                </a>
+                <span>
+                <a href = ${address} ></a>
+                </span><br>
                 <span>${postal}</span>
             </div>
             <div class="store-info-phone">
