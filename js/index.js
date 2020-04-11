@@ -117,13 +117,13 @@ function createMarker(latlng, name, address, openStatusText, socialMedia,postal,
                     <i class="fas fa-location-arrow"></i>
                 </div>
                 <span>${address}</span><br>
-                <span> <a href = ${postal}></a></span>
+                <span> ${postal}</span>
             </div>
             <div class="store-info-phone">
                 <div class="circle">
                     <i class="fas fa-phone-alt"></i>
                 </div>
-                ${socialMedia}
+               <a href = ${socialMedia}></a>
             </div>
         </div>
     `;
